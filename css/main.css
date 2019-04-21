@@ -100,9 +100,11 @@ a:hover {
         /* border-top: var(--border-width) solid var(--accent); */
         border: none;
         background-color: rgba(228, 228, 228, 0.0);
+        font-size: 3vh;
+        padding-top: 30px;
     }
-}
 
+}
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);

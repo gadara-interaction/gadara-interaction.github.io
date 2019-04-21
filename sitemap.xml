@@ -3,34 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gadara-interaction.github.io/project/project1/</loc>
+    <loc>https://gadara-interaction.github.io/contact/project1/</loc>
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/project/project2/</loc>
+    <loc>https://gadara-interaction.github.io/people/project1/</loc>
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/project/project3/</loc>
+    <loc>https://gadara-interaction.github.io/works/project1/</loc>
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/project/project4/</loc>
+    <loc>https://gadara-interaction.github.io/works/project2/</loc>
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://gadara-interaction.github.io/works/project3/</loc>
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/</loc>
+    <loc>https://gadara-interaction.github.io/works/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gadara-interaction.github.io/biography/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/post/</loc>
+    <loc>https://gadara-interaction.github.io/biography/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gadara-interaction.github.io/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -66,12 +74,12 @@
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/post/goisforlovers/</loc>
+    <loc>https://gadara-interaction.github.io/biography/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/post/hugoisforlovers/</loc>
+    <loc>https://gadara-interaction.github.io/biography/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +96,7 @@
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/post/migrate-from-jekyll/</loc>
+    <loc>https://gadara-interaction.github.io/biography/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -110,7 +118,17 @@
   </url>
   
   <url>
-    <loc>https://gadara-interaction.github.io/project/</loc>
+    <loc>https://gadara-interaction.github.io/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gadara-interaction.github.io/people/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gadara-interaction.github.io/works/</loc>
     <priority>0</priority>
   </url>
   
