@@ -46,6 +46,8 @@ main {
 
 /*apply accent colour to links*/
 
+
+
 a:link, a:visited {
     color: #f1f1f1;
 }
@@ -87,9 +89,20 @@ a:hover {
 
 /*coloured borders at top and bottom of the page*/
 
+
 .navbar.navbar-default {
-    border-top: var(--border-width) solid var(--accent);
+    /* border-top: var(--border-width) solid var(--accent); */
+    border: none;
+    background-color: rgba(228, 228, 228, 0.9);
 }
+@media screen and (min-width:781px){
+    .navbar.navbar-default {
+        /* border-top: var(--border-width) solid var(--accent); */
+        border: none;
+        background-color: rgba(228, 228, 228, 0.0);
+    }
+}
+
 
 footer {
     border-bottom: var(--border-width) solid var(--accent);
